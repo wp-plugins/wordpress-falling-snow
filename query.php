@@ -11,7 +11,8 @@
 					'height' => stripcslashes($row['height']),
 					'width' => stripcslashes($row['width']),
 					'rotationType' => stripcslashes($row['rotationType']),
-					'number_leaves' => stripcslashes($row['number_snow'])				
+					'number_leaves' => stripcslashes($row['number_snow']),
+					'path' => stripcslashes($row['path'])							
 					);
 			
 			
